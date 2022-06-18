@@ -1,1 +1,1 @@
-return 'Meu primeiro programa Luceli Lisboa Mesquita! quantidade de visitas {} vezes.\n'.format(count)
+print('Meu primeiro programa Luceli Lisboa Mesquita! quantidade de visitas ')
