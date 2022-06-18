@@ -1,1 +1,0 @@
-return 'Teste meu primeiro programa Luceli Lisboa Mesquita!.git status'
