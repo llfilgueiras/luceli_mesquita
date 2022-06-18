@@ -1,1 +1,1 @@
-return 'Teste meu primeiro programa Luceli Lisboa Mesquita! quantidade de visitas {} vezes.\n'.format(count)
+return 'Meu primeiro programa Luceli Lisboa Mesquita! quantidade de visitas {} vezes.\n'.format(count)
