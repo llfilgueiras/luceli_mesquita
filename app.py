@@ -1,1 +1,1 @@
-return 'Teste meu primeiro programa Luceli Lisboa Mesquita! quantidade de visitas {} vezes.\n'
+return 'Teste meu primeiro programa Luceli Lisboa Mesquita!.\n'
