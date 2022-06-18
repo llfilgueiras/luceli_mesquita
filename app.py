@@ -20,4 +20,4 @@ def get_hit_count():
 @app.route('/')
 def hello():
     count = get_hit_count()
-    return 'Meu Primeiro Programa Luceli Lisboa Mesquita! quantidade de visitas {} times.\n'.format(count)
+    return 'Meu Primeiro Programa Luceli Lisboa Mesquita! quantidade de visitas {} vezes.\n'.format(count)
