@@ -1,0 +1,6 @@
+projectKey=Jenkins
+serverUrl=http://127.0.0.1:9000
+serverVersion=9.5.0.56709
+dashboardUrl=http://127.0.0.1:9000/dashboard?id=Jenkins
+ceTaskId=AYGW9Ax1HJi0Pzqtq59f
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AYGW9Ax1HJi0Pzqtq59f
